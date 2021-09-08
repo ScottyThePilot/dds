@@ -7,6 +7,7 @@ keywords = ["dds", "directdraw"]
 categories = ["game-engines", "multimedia::images"]
 edition = "2018"
 license = "LGPL-3.0"
+exclude = ["/samples"]
 
 [lib]
 name = "dds"
